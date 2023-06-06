@@ -7,15 +7,12 @@
     "tailwind-build": "npx tailwindcss -i ./src/input.css -o ./index.css --watch"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gabitodev/portfolio.git"
+    "type": "git"
   },
-  "author": "Gabriel Garcia",
+  "author": "Emmanuel Requena",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabitodev/portfolio/issues"
   },
-  "homepage": "https://github.com/gabitodev/portfolio#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
   }
